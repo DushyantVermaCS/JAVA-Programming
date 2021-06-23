@@ -1,3 +1,5 @@
+//Understand concept of Class and Object in java...
+
 package OOPs;
 
 //Cat class...
@@ -52,7 +54,6 @@ public class MainClass {
 
         Dog dog1 = new Dog(); //here dog1 is object. and Dog is class
         Dog dog2 = new Dog();
-
         dog1.breed = "Bug";
         dog1.name = "Scooby";
 
